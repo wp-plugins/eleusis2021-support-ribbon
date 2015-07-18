@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: ElEUsis2021 Support Banner
+Plugin Name: elEUsis2021 Support Banner
 Plugin URI: https://codesigns.gr/
 Description: 
 Author: Codesigns

@@ -1,15 +1,15 @@
-=== ElEUsis2021 Support Banner ===
+=== elEUsis2021 Support Banner ===
 Contributors: kosvrouvas, codesigns.gr
 Tags: eleusis, ECOC, ECOCCC, candidate, ribbon, elefsina, eleusina
 Requires at Least: 2.6
 Tested Up To: 4.2
 Stable tag: trunk
 
-Show your support to the ElEUsis2021 European Capital of Culture Candidate City by putting a ribbon with the logo on your site.
+Show your support to the elEUsis2021 European Capital of Culture Candidate City by putting a ribbon with the logo on your site.
 
 == Description ==
 
-Show your support to the ElEUsis2021 European Capital of Culture Candidate City by putting a ribbon with the logo on your site.
+Show your support to the elEUsis2021 European Capital of Culture Candidate City by putting a ribbon with the logo on your site.
 
 == Installation ==
 
