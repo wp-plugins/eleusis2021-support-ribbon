@@ -1,4 +1,4 @@
-=== Eleusis2021 ===
+=== ElEUsis2021 Support Banner ===
 Contributors: kosvrouvas, codesigns.gr
 Tags: eleusis, ECOC, ECOCCC, candidate, ribbon, elefsina, eleusina
 Requires at Least: 2.6
