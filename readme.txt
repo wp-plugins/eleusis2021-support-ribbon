@@ -1,4 +1,4 @@
-=== Je suis Charlie ===
+=== Eleusis2021 ===
 Contributors: kosvrouvas, codesigns.gr
 Tags: eleusis, ECOC, ECOCCC, candidate, ribbon, elefsina, eleusina
 Requires at Least: 2.6
