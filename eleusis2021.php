@@ -5,7 +5,7 @@ Plugin URI: https://codesigns.gr/
 Description: 
 Author: Codesigns
 Author URI: https://codesigns.gr/
-Version: 0.1
+Version: 0.2
 License: GPLv2
 */
 
